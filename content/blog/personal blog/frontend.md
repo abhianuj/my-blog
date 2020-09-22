@@ -9,7 +9,7 @@ draft: false
 
 ## Frontend tutorials and tips for starters and beginners
 
-![](./images/vis-frontend-1.png.pagespeed.ce.xWVJin1Y8)
+![](./images/vis-frontend-1.png.pagespeed.ce.xWVJin1Y8_.png)
 
 There a lot of resources available online for learning frontend web development so one will definitely get confused while beginning with web development. I will try to help you by giving some tips, tutorials and reference which will definitely help you. The main thing in web development is consistency, do not quit if you have started with it. Try making small projects with whatever you have learnt. I will also provide some good mini projects on which you can work on while learning web development and would help you with some steps on how to complete them.
 
@@ -18,8 +18,13 @@ For html all the tutorials availble online are pretty much good and same so star
 
 ### CSS (Cascading Style Sheets)
 #### Tutorials:
-Websites: [w3schools](https://www.w3schools.com/css/)
-Youtube Tutorial: [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+Websites: 
+[w3schools](https://www.w3schools.com/css/)
+
+Youtube Tutorial: 
+[Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 Reference:
 [Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [CSS Tricks](https://css-tricks.com/)
@@ -28,7 +33,13 @@ CSS seems to be very easy at beginning but let me tell you the truth, you will f
 
 ### javaScript
 #### Tutorials:
-Websites: [javaScript.info](https://javascript.info/)
-Youtube Tutorial: [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+Websites: 
+[javaScript.info](https://javascript.info/)
+
+Youtube Tutorial: 
+[Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
 Reference: [Mozilla Developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 If you are familiar with any other programming or scripting language then your learning curve will be not so high in js. Try learning by making as many projects you can wether it can be mini, small or even big.
