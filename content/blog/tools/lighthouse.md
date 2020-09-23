@@ -10,7 +10,7 @@ draft: false
 
 Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
 
-![]("https://developers.google.com/web/tools/lighthouse/images/lighthouse-logo.svg")
+![](![](./images/lg.PNG))
 
 We have around 4 method's to run lighthouse. I will be focusing on the one provided with chrome dev tools.
 
@@ -29,6 +29,9 @@ Step 4: After selecting the categories. Click on generate report.
 After that you will get the visulaized data about the audit's performed.
 
 Step 5: On scrolling a little, You can also see why you got low percentage on some audits with the solutions.
+
 ![](./images/audit2.PNG)
+You can now correct all the recomendations one by one.
+
 
 Happy Auditing! 😊
