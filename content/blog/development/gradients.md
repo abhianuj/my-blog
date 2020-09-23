@@ -2,7 +2,7 @@
 title: 'Gradients'
 date: 2020-3-2 16:21:13
 category: 'development'
-thumbnail: './images/education-system.png'
+thumbnail: './images/first.png'
 draft: false
 ---
 
@@ -24,7 +24,7 @@ I will be using the same HTML template for each of the example.
 </html>
 ```
 
-#### 1. simple use of gradients to make stripes
+1. simple use of gradients to make stripes
 ```
 /*style.css*/
 .gradient{
@@ -40,7 +40,7 @@ It would look something like this.
 ![](./images/first.PNG)
 
 
-#### 2. By Making one of the color stops to transparent we can see the background gradient in place of the transparent stripes.
+2. By Making one of the color stops to transparent we can see the background gradient in place of the transparent stripes.
 ```
 /*style.css*/
 .gradient{
@@ -58,7 +58,7 @@ It would look something like this.
 
 
 
-#### 3. The First gradient is at the top of the stack so we can use the alpha value of the rgba in top graients to view the gradient below it.
+3. The First gradient is at the top of the stack so we can use the alpha value of the rgba in top graients to view the gradient below it.
 ```
 /*style.css*/
 .gradient{
@@ -75,7 +75,7 @@ It would look something like this.
 
 
 
-#### 4. Full crosses with three layered gradients
+4. Full crosses with three layered gradients
 ```
 /*style.css*/
 .gradient{
@@ -94,7 +94,7 @@ It would look something like this.
 ![](./images/fourth.PNG)
 
 
-#### 5. Simple Squares
+5. Simple Squares
 ```
 /*style.css*/
 .gradient{
@@ -112,7 +112,7 @@ It would look something like this.
 ![](./images/fifth.PNG)
 
 
-#### 6. Multiple Circles
+6. Multiple Circles
 ```
 /*style.css*/
 .gradient{
@@ -136,7 +136,7 @@ It would look something like this.
 ![](./images/sixth.PNG)
 
 
-#### 7. Miscellaneous
+7. Miscellaneous
 ```
 /*style.css*/
 .gradient{
@@ -161,7 +161,7 @@ It would look something like this.
 ![](./images/seventh.PNG)
 
 
-#### 8. Violet Circles
+8. Violet Circles
 ```
 /*style.css*/
 .gradient{
@@ -185,7 +185,7 @@ It would look something like this.
 ![](./images/eigth.PNG)
 
 
-#### 9. We can use background-size property since backgrounds are repeated automatically and here the linear gradinets are applied as squares of 56px
+9. We can use background-size property since backgrounds are repeated automatically and here the linear gradinets are applied as squares of 56px
 ```
 /*style.css*/
 .gradient{
@@ -209,7 +209,7 @@ It would look something like this.
 ![](./images/ninth.PNG)
 
 
-#### 10. If the second value in background size is smaller than the first one than the square of the dimenssions (20px)X(20px) gets cropped 10px horizontally from top
+10. If the second value in background size is smaller than the first one than the square of the dimenssions (20px)X(20px) gets cropped 10px horizontally from top
 ```
 /*style.css*/
 .gradient{
@@ -232,7 +232,7 @@ It would look something like this.
 It would look something like this.
 ![](./images/tenth.PNG)
 
-#### 11. When the larger value acts as the dimmension of square and the smaller value acts as the cropping factor when the first value acts as the dimmension and the cropping is done horizontally from top of the square whareas when the second value acts as the dimmension then the image gets symetric to the plain and is rotated 45 deg clockwise
+11. When the larger value acts as the dimmension of square and the smaller value acts as the cropping factor when the first value acts as the dimmension and the cropping is done horizontally from top of the square whareas when the second value acts as the dimmension then the image gets symetric to the plain and is rotated 45 deg clockwise
 ```
 /*style.css*/
 .gradient{
@@ -255,7 +255,7 @@ It would look something like this.
 It would look something like this.
 ![](./images/eleventh.PNG)
 
-#### 12. making grasses using the second value of background-size as the dimmension of the square
+12. making grasses using the second value of background-size as the dimmension of the square
 ```
 /*style.css*/
 .gradient{
@@ -279,6 +279,5 @@ It would look something like this.
 ![](./images/tweleveth.PNG)
 
 That's all for this blog
-
-But you can do much more than this with gradients.
+, but you can do much more than this with gradients.
 Try exploring you will be shocked.
