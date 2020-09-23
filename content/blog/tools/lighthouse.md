@@ -10,7 +10,7 @@ draft: false
 
 Lighthouse is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. It has audits for performance, accessibility, progressive web apps, SEO and more.
 
-![](./images/lg.PNG)
+![](./images/lg.png)
 
 We have around 4 method's to run lighthouse. I will be focusing on the one provided with chrome dev tools.
 
