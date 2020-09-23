@@ -1,6 +1,6 @@
 ---
 title: 'Gradients'
-date: 2020-2-5 16:21:13
+date: 2020-3-2 16:21:13
 category: 'development'
 thumbnail: './images/education-system.png'
 draft: false
@@ -281,7 +281,6 @@ It would look something like this.
 That's all for this blog
 
 But you can do much more than this with gradients.
-
 Try exploring you will be shocked.
 
 
