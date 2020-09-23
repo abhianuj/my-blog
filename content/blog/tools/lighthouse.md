@@ -33,5 +33,4 @@ Step 5: On scrolling a little, You can also see why you got low percentage on so
 ![](./images/audit2.PNG)
 You can now correct all the recomendations one by one.
 
-
 Happy Auditing! 😊
