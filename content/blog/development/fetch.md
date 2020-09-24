@@ -2,11 +2,12 @@
 title: 'Fetch API'
 date: 2019-11-12 16:21:14
 category: 'development'
-thumbnail: './images/education-system.png'
+thumbnail: './images/first.PNG'
 draft: false
 ---
 
 ## Fetch API for all your API calls
+
 For years, XMLHttpRequest has been web developers’ trusted sidekick. Whether directly or under the hood, XMLHttpRequest has enabled Ajax and a whole new type of interactive experience, from Gmail to Facebook.
 
 However, XMLHttpRequest is slowly being superseded by the Fetch API. Both can be used to make network requests, but the Fetch API is Promise-based, which enables a cleaner, more concise syntax and helps keep you out of callback hell.
@@ -40,7 +41,6 @@ fetch('/readme.txt')
     .then(data => console.log(data));
     .catch(error => console.log(error));
 ```
-
 A better version of the fetch api would be like this.
 ```
 fetch(url)
@@ -57,7 +57,5 @@ function hadleError(err){
   //handle the error here
 }
 ```
-
 The Fetch API is asynchronus so if you want it to be synchronus you need async await wrapper on fetch API to do so.
-
 Happy Fetching.
