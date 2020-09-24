@@ -1,6 +1,6 @@
 ---
 title: 'Fetch API'
-date: 2019-12-12 16:21:13
+date: 2019-12-12 16:21:14
 category: 'development'
 thumbnail: './images/education-system.png'
 draft: false
@@ -17,7 +17,7 @@ However, XMLHttpRequest is slowly being superseded by the Fetch API. Both can be
 
 The fetch() method is available in the global scope that instructs the browser to send a request to a provided URL.
 
-#### Sending a Request
+How to Send a Request❔
 ```
 fetch("url_to_fetch");
 ```
