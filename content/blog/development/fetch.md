@@ -1,6 +1,6 @@
 ---
 title: 'Fetch API'
-date: 2019-11-12 16:21:14
+date: 2020-8-17 16:21:14
 category: 'development'
 thumbnail: './images/first.PNG'
 draft: false
