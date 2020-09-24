@@ -7,7 +7,6 @@ draft: false
 ---
 
 ## Fetch API for all your API calls
-
 For years, XMLHttpRequest has been web developers’ trusted sidekick. Whether directly or under the hood, XMLHttpRequest has enabled Ajax and a whole new type of interactive experience, from Gmail to Facebook.
 
 However, XMLHttpRequest is slowly being superseded by the Fetch API. Both can be used to make network requests, but the Fetch API is Promise-based, which enables a cleaner, more concise syntax and helps keep you out of callback hell.
@@ -18,7 +17,6 @@ How to Send a Request❔
 ```
 fetch("url_to_fetch");
 ```
-
 When you try running above code in console you can see that in network tab (in chrome dev tools) something is recieved from the url you provided but it's not displaying anywhere. It's because fetch is getting the data from url but we are not handling that data.
 
 The fetch() method returns a Promise so you can use the then() and catch() methods to handle it.
@@ -62,4 +60,4 @@ function hadleError(err){
 
 The Fetch API is asynchronus so if you want it to be synchronus you need async await wrapper on fetch API to do so.
 
-Happy Fetching!
+Happy Fetching.
