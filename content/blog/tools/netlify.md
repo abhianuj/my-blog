@@ -1,6 +1,6 @@
 ---
 title: 'Get you static website hosted for free'
-date: 2020-8-4 10:02:14
+date: 2020-8-12 10:02:14
 category: 'tools'
 thumbnail: './images/education-system.png'
 draft: false
