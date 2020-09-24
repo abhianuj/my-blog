@@ -7,9 +7,6 @@ draft: false
 ---
 
 ## Fetch API for all your API calls
-
-![](./images/fetch./jpeg)
-
 For years, XMLHttpRequest has been web developers’ trusted sidekick. Whether directly or under the hood, XMLHttpRequest has enabled Ajax and a whole new type of interactive experience, from Gmail to Facebook.
 
 However, XMLHttpRequest is slowly being superseded by the Fetch API. Both can be used to make network requests, but the Fetch API is Promise-based, which enables a cleaner, more concise syntax and helps keep you out of callback hell.
