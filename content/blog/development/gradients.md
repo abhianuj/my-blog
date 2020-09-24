@@ -1,6 +1,6 @@
 ---
 title: 'Gradients'
-date: 2020-3-2 16:21:13
+date: 2020-8-11 16:21:13
 category: 'development'
 thumbnail: './images/first.png'
 draft: false
