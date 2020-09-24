@@ -1,6 +1,6 @@
 ---
 title: 'Fetch API'
-date: 2019-12-12 16:21:14
+date: 2019-11-12 16:21:14
 category: 'development'
 thumbnail: './images/education-system.png'
 draft: false
@@ -23,7 +23,6 @@ fetch("url_to_fetch");
 When you try running above code in console you can see that in network tab (in chrome dev tools) something is recieved from the url you provided but it's not displaying anywhere. It's because fetch is getting the data from url but we are not handling that data.
 
 The fetch() method returns a Promise so you can use the then() and catch() methods to handle it.
-
 ```
 fetch(url)
     .then(response => {
@@ -33,13 +32,11 @@ fetch(url)
         // handle the error
     });
 ```
-
 When the request completes, the resource is available. At this time, the promise will resolve into a Response object.
 
 The Response object is the API wrapper for the fetched resource. The Response object has a number of useful properties and methods to inspect the response.
 
 we can convert this response to a json object by the following code.
-
 ```
 fetch('/readme.txt')
     .then(response => response.json())
